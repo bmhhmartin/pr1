@@ -1,0 +1,12 @@
+<td width="300" height="300" bgcolor="#ffffff">
+										<table width="300" height="300" border="0" cellpadding="0" cellspacing="1">
+											<tr>
+												<td width="300" height="150" bgcolor="#ffffff">
+													<img src="images/rose29.JPG" align="left">
+													<p align="center"><a href="http://www.protibha.com/2016/07/com.html"><strong>29th rose is sign of my love</strong></a><br><br><br>Today is the 3rd love anniversary between Meghla and Ifti. So in this day, they want to celebrete this day........</p>
+												</td>
+											</tr>
+											<tr>
+												<td width="300" height="150" bgcolor="#d8d8d8">
+													<img src="images/helpless.JPG" align="left">
+													<p align="center"><a href="http://www.protibha.com/2016/07/com.html"><strong>29th rose is sign of my love</strong></a><br><br><br>Today is the 3rd love anniversary between Meghla and Ifti. So in this day, they want to celebrete this day........</p>
